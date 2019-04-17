@@ -7,7 +7,7 @@
 ## 项目成员
 - [队员 陈翻](https://github.com/JesseLivingston) 
 - 队员 Jolin
-- [队员 小虾米}(https://github.com/zhangzixin1)
+- [队员 小虾米](https://github.com/zhangzixin1)
 - [队员 Trista](https://github.com/i-trista) 
 
 ## 项目详情
