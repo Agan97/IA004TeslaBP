@@ -6,7 +6,7 @@
 - 目标:形成新能源汽车行业的最小全局认识，对蔚来/比亚迪/特斯拉三家公司对比分析。
 ## 项目成员
 - [队员 陈翻](https://github.com/JesseLivingston) 
-- 队员 Jolin
+- [队员 Jolin](https://github.com/jolinzhao716?tab=overview&from=2019-05-01&to=2019-05-06)
 - [队员 小虾米](https://github.com/zhangzixin1)
 - [队员 Trista](https://github.com/i-trista) 
 
